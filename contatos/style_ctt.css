@@ -1,0 +1,147 @@
+body {
+    background-color: black;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: purple;
+}
+
+nav a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+img {
+    border-radius: 50%;
+    width: 20px;
+}
+
+footer img {
+    margin: 30px;
+    border: 2px solid purple;
+}
+
+footer a:hover {
+    color: white;
+}
+
+footer {
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+footer a {
+    text-align: center;
+    margin: 10px;
+}
+
+footer p {
+    margin-top: -20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fullProject {
+    padding: 0px 50px; 
+}
+body {
+    background-color: black;
+    color: white;
+}
+
+img {
+    width: 210px;
+    height: 200px;
+    border-radius: 50%;
+    border-color: purple;
+    border: 2px solid purple; 
+}
+
+.imagem {
+    text-align: center;
+}
+
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: purple;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color:purple;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cursosdev ul {
+    justify-content: left;
+    list-style-type: disc;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cursosdev a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.cursosdev ul {
+    display: block;
+}
+
+nav a:hover {
+    color:white;
+    text-decoration: underline;
+}
+
+footer img {
+    width: 30px;
+    height: 30px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+footer a {
+    margin: 10px;
+}
+footer a:hover {
+    color: white;
+}
+
+.fullProject {
+    padding: 0px 50px;
+}
