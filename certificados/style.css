@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+}
+p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.sobremim ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: purple;
+}
+
+a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+img {
+    width: 400px;
+    height: 215px;
+    border-radius: 10px;
+    margin-top: 3px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav a:hover {
+    color: white;
+    text-decoration: underline;
+}
+.fullProject {
+    padding: 0px 50px;
+}
